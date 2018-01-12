@@ -5,9 +5,11 @@
   },
   "prefix": "c.",
   "authors": [
-    "Joshua Barnett"
+    "ZippyMagician",
+    "Card-Bot",
+    "ZippyMagic"
   ],
   "backpack": {
-    "max": "10"
+    "max": "50"
   }
 }
